@@ -27,7 +27,7 @@ You have a selection by default and a time to select a diferent simbol.
 When you play with a computer the result wil be different and the percent 
 of simbol choose will be not linear random.
 
-
+Frist let gonna write a game test about test of concept.
 
 
 
